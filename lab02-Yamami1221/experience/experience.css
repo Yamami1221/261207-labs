@@ -1,0 +1,64 @@
+body {
+    background-color: antiquewhite;
+    color: black;
+    text-align: center;
+    font-family: 'Abril Fatface';
+    cursor: url('/lab02-Yamami1221/cursor/nat730.cur'), auto;
+}
+
+.my-rounded {
+    border-radius: 25px;
+}
+
+.my-rounded-left {
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+}
+
+.my-rounded-right {
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
+.experienceHead {
+    margin: auto;
+    padding: 5px;
+}
+
+.experienceContainer {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.myImg {
+    max-width: 25%;
+}
+
+.name {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 0;
+    padding: 5px;
+}
+
+.portMenu {
+    padding: 10px;
+}
+
+.rickroll {
+    font-size: 10px;
+}
+
+.experience {
+    margin: auto;
+    border: solid 5px gold;
+    width: 400px;
+}
+
+.experience-list {
+    margin: auto;
+    text-align: left;
+    padding-bottom: 15px;
+    width: 400px;
+}
